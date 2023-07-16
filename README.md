@@ -21,3 +21,6 @@ This is just being set up!
 # Audio tools
 - Foobar2000 (https://www.foobar2000.org/download)
   - Vgmstream plugin (https://www.foobar2000.org/components/view/foo_input_vgmstream)
+
+# Cutscene tools
+- PSS Demux (https://www.zophar.net/utilities/ps2util/pss-demux.html)
