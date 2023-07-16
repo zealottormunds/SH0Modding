@@ -12,7 +12,7 @@ This is just being set up!
 
 # General Tools:
 - Silent Hill Origins Modding Tools ([Download available in this repository](https://github.com/zealottormunds/SH0Modding/tree/main/Silent%20Hill%20Origins%20Modding%20Tools))
-- HxD (https://mh-nexus.de/en/hxd/)
+- HxD or any Hex editor (https://mh-nexus.de/en/hxd/)
 
 # Texture tools
 - Magic.TXD (https://www.gtagarage.com/mods/show.php?id=27862)
