@@ -1,0 +1,19 @@
+C:\Users\santi\source\repos\Silent Hill Origins Modding Tools\Silent Hill Origins Modding Tools\bin\Debug\Silent Hill Origins Modding Tools.exe.config
+C:\Users\santi\source\repos\Silent Hill Origins Modding Tools\Silent Hill Origins Modding Tools\bin\Debug\Silent Hill Origins Modding Tools.exe
+C:\Users\santi\source\repos\Silent Hill Origins Modding Tools\Silent Hill Origins Modding Tools\bin\Debug\Silent Hill Origins Modding Tools.pdb
+C:\Users\santi\source\repos\Silent Hill Origins Modding Tools\Silent Hill Origins Modding Tools\bin\Debug\zlib.net.dll
+C:\Users\santi\source\repos\Silent Hill Origins Modding Tools\Silent Hill Origins Modding Tools\obj\Debug\Silent Hill Origins Modding Tools.csprojAssemblyReference.cache
+C:\Users\santi\source\repos\Silent Hill Origins Modding Tools\Silent Hill Origins Modding Tools\obj\Debug\Silent_Hill_Origins_Modding_Tools.Form1.resources
+C:\Users\santi\source\repos\Silent Hill Origins Modding Tools\Silent Hill Origins Modding Tools\obj\Debug\Silent_Hill_Origins_Modding_Tools.Properties.Resources.resources
+C:\Users\santi\source\repos\Silent Hill Origins Modding Tools\Silent Hill Origins Modding Tools\obj\Debug\Silent Hill Origins Modding Tools.csproj.GenerateResource.cache
+C:\Users\santi\source\repos\Silent Hill Origins Modding Tools\Silent Hill Origins Modding Tools\obj\Debug\Silent Hill Origins Modding Tools.csproj.CoreCompileInputs.cache
+C:\Users\santi\source\repos\Silent Hill Origins Modding Tools\Silent Hill Origins Modding Tools\obj\Debug\Silent Hill Origins Modding Tools.csproj.CopyComplete
+C:\Users\santi\source\repos\Silent Hill Origins Modding Tools\Silent Hill Origins Modding Tools\obj\Debug\Silent Hill Origins Modding Tools.exe
+C:\Users\santi\source\repos\Silent Hill Origins Modding Tools\Silent Hill Origins Modding Tools\obj\Debug\Silent Hill Origins Modding Tools.pdb
+C:\Users\santi\source\repos\Silent Hill Origins Modding Tools\Silent Hill Origins Modding Tools\bin\Debug\Zlib.Portable.dll
+C:\Users\santi\source\repos\Silent Hill Origins Modding Tools\Silent Hill Origins Modding Tools\bin\Debug\Zlib.Portable.xml
+C:\Users\santi\source\repos\Silent Hill Origins Modding Tools\Silent Hill Origins Modding Tools\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\santi\source\repos\Silent Hill Origins Modding Tools\Silent Hill Origins Modding Tools\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\santi\source\repos\Silent Hill Origins Modding Tools\Silent Hill Origins Modding Tools\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\santi\source\repos\Silent Hill Origins Modding Tools\Silent Hill Origins Modding Tools\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\santi\source\repos\Silent Hill Origins Modding Tools\Silent Hill Origins Modding Tools\obj\Debug\Silent_Hill_Origins_Modding_Tools.ChunkViewer.resources
