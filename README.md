@@ -9,6 +9,7 @@ This is just being set up!
 - Modify cutscene captions (time, order, text)
 - Swap music
 - Swap videos
+- Edit collision files (partially)
 
 # General Tools:
 - Silent Hill Origins Modding Tools ([Download available in this repository](https://github.com/zealottormunds/SH0Modding/tree/main/Silent%20Hill%20Origins%20Modding%20Tools))
