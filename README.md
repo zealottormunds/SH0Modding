@@ -16,7 +16,7 @@ This is just being set up!
 - HxD or any Hex editor (https://mh-nexus.de/en/hxd/)
 
 # Model tools:
-- R3Dsearch
+- R3Dsearch ([Download available in this repository](https://github.com/zealottormunds/SH0Modding/releases/tag/R3DSearch))
 - RW Analyze (https://www.gta-modding.com/area/file-33-rw-analyze.html)
 
 # Texture tools
