@@ -11,9 +11,13 @@ This is just being set up!
 - Swap videos
 - Edit collision files (partially)
 
-# General Tools:
+# General tools:
 - Silent Hill Origins Modding Tools ([Download available in this repository](https://github.com/zealottormunds/SH0Modding/tree/main/Silent%20Hill%20Origins%20Modding%20Tools))
 - HxD or any Hex editor (https://mh-nexus.de/en/hxd/)
+
+# Model tools:
+- R3Dsearch
+- RW Analyze (https://www.gta-modding.com/area/file-33-rw-analyze.html)
 
 # Texture tools
 - Magic.TXD (https://www.gtagarage.com/mods/show.php?id=27862)
@@ -25,3 +29,15 @@ This is just being set up!
 
 # Cutscene tools
 - PSS Demux (https://www.zophar.net/utilities/ps2util/pss-demux.html)
+
+# File information:
+- Model files:
+  * .dff files for characters. They can be opened with Noesis. There are some scripts to edit these models, but they don't work with Origins models yet.
+  * .dff files for maps. They cannot be previewed yet, but their format can be explored with RW Analyze.
+  * .col files for map collisions. They can be opened and modified with my R3Dsearch tool.
+- Audio files:
+  * .rws files, playable wtih Foobar2000
+- Cutscene files:
+  * .pss files, playable with PSS Demux
+- Menu files:
+  * .xml for 
