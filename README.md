@@ -10,8 +10,14 @@ This is just being set up!
 - Swap music
 - Swap videos
 
-# Tools:
-- Silent Hill Origins Modding Tools (uploading!)
+# General Tools:
+- Silent Hill Origins Modding Tools (https://github.com/zealottormunds/SH0Modding/tree/main/Silent%20Hill%20Origins%20Modding%20Tools)
 - HxD (https://mh-nexus.de/en/hxd/)
+
+# Texture tools
 - Magic.TXD (https://www.gtagarage.com/mods/show.php?id=27862)
 - XnViewMP (https://www.xnview.com/en/xnviewmp/)
+
+# Audio tools
+- Foobar2000 (https://www.foobar2000.org/download)
+  - Vgmstream plugin (https://www.foobar2000.org/components/view/foo_input_vgmstream)
