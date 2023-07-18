@@ -42,4 +42,4 @@ This is just being set up!
 - Cutscene files:
   * .pss files, playable with PSS Demux
 - Menu files:
-  * .xml for 
+  * .xml files for UI, can be modified with Notepad++
