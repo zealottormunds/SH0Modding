@@ -43,3 +43,7 @@ This is just being set up!
   * .pss files, playable with PSS Demux
 - Menu files:
   * .xml files for UI, can be modified with Notepad++
+
+# How can I actually start doing stuff?
+- SHO Modding Tools Tutorial ([Here](https://github.com/zealottormunds/SH0Modding/releases)https://github.com/zealottormunds/SH0Modding/releases)
+- R3DSearch Tutorial ([Here](https://github.com/zealottormunds/SH0Modding/releases/tag/R3DSearch)https://github.com/zealottormunds/SH0Modding/releases/tag/R3DSearch)
