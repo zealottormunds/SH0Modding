@@ -14,7 +14,7 @@ This is just being set up!
 - Swapping videos
 
 # General tools:
-- Silent Hill Origins Modding Tools ([Download available in this repository](https://github.com/zealottormunds/SH0Modding/tree/main/Silent%20Hill%20Origins%20Modding%20Tools))
+- Silent Hill Origins Modding Tools ([Download available in this repository](https://github.com/zealottormunds/SH0Modding/releases))
 - HxD or any Hex editor (https://mh-nexus.de/en/hxd/)
 
 # Model tools:
